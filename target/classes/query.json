@@ -1,0 +1,47 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Netty HTTP operation failed invoking"
+                }
+              },
+              {
+                "match": {
+                  "logMessage": "error"
+                }
+              }
+            ],
+            "must_not": [
+              {
+                "match": {
+                  "errorCode": "VP009"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Förbindelse borttagen av partnern"
+                }
+              },
+              {
+                "match": {
+                  "logMessage": "error"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

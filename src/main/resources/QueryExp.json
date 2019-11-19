@@ -1,0 +1,77 @@
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Netty HTTP operation failed invoking"
+                }
+              }
+            ],
+            "must_not": [
+              {
+                "match": {
+                  "errorCode": "VP009"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Förbindelse borttagen av partnern"
+                }
+              },
+              {
+                "match": {
+                  "logMessage": "error"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Stacktrace=io.netty.handler.timeout.ReadTimeoutException: null\\n** logEvent-error.end *************************************************************"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "bool": {
+            "must": [
+              {
+                "match": {
+                  "stacktrace": "Netty HTTP operation failed invoking"
+                }
+              },
+              {
+                "match": {
+                  "statusCode": "503"
+                }
+              }
+
+            ],
+            "must_not": [
+              {
+                "match": {
+                  "errorCode": "VP009"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
