@@ -1,0 +1,1717 @@
+[
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CreateDraftCertificateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CreateDraftCertificate.2.rivtabp21/schemas/interactions/CreateDraftCertificateInteraction/CreateDraftCertificateInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CreateDraftCertificate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaOrdinationVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaOrdinationVard.1.rivtabp20/schemas/interactions/SkapaOrdinationVardInteraction/SkapaOrdinationVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SkapaOrdinationVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:CancelFormResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.CancelForm.2.rivtabp21/schemas/interactions/CancelFormInteraction/CancelFormInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/CancelForm/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:UnlinkPersonIdentityResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.UnlinkPersonIdentity.3.rivtabp21/schemas/interactions/UnlinkPersonIdentityInteraction/UnlinkPersonIdentityInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/UnlinkPersonIdentity/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:auditing:log:StoreLogResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.auditing.log.StoreLog.2.rivtabp21/schemas/interactions/StoreLogInteraction/StoreLogInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/auditing/log/StoreLog/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAllPerformersResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllPerformers.1.rivtabp21/schemas/interactions/GetAllPerformersInteraction/GetAllPerformersInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllPerformers/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaPatientInfoResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaPatientInfo.5.rivtabp21/schemas/interactions/HamtaPatientInfoInteraction/HamtaPatientInfoInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaPatientInfo/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:basic:GetObservationsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.basic.GetObservations.1.rivtabp21/schemas/interactions/GetObservationsInteraction/GetObservationsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/basic/GetObservations/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCitizenResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCitizen.2.rivtabp21/schemas/interactions/ListCertificatesForCitizenInteraction/ListCertificatesForCitizenInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCitizen/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetUnitResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetUnit.1.rivtabp21/schemas/interactions/GetUnitInteraction/GetUnitInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetUnit/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CreateDraftCertificateResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CreateDraftCertificate.3.rivtabp21/schemas/interactions/CreateDraftCertificateInteraction/CreateDraftCertificateInteraction_3.2_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CreateDraftCertificate/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAllHealthcareFacilitiesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllHealthcareFacilities.1.rivtabp21/schemas/interactions/GetAllHealthcareFacilitiesInteraction/GetAllHealthcareFacilitiesInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllHealthcareFacilities/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:RegistreraEpsosSamtyckeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/RegistreraEpsosSamtycke.4.rivtabp21/schemas/interactions/RegistreraEpsosSamtyckeInteraction/RegistreraEpsosSamtyckeInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/RegistreraEpsosSamtycke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:ForlangOrdinationVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ForlangOrdinationVard.1.rivtabp20/schemas/interactions/ForlangOrdinationVardInteraction/ForlangOrdinationVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/ForlangOrdinationVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:CancelTemporaryExtendedRevokeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.CancelTemporaryExtendedRevoke.4.rivtabp21/schemas/interactions/CancelTemporaryExtendedRevokeInteraction/CancelTemporaryExtendedRevokeInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/CancelTemporaryExtendedRevoke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:GetExtendedConsentsForPatientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.GetExtendedConsentsForPatient.2.rivtabp21/schemas/interactions/GetExtendedConsentsForPatientInteraction/GetExtendedConsentsForPatientInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/GetExtendedConsentsForPatient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processmanagement:decisionsupport:insurancemedicinedecisionsupport:GetFmbResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/processmanagement.decisionsupport.insurancemedicinedecisionsupport.GetFmb.1.rivtabp21/schemas/interactions/GetFmbInteraction/GetFmbInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/processmanagement/decisionsupport/insurancemedicinedecisionsupport/GetFmb/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:DeleteQuestionsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteQuestions.1.rivtabp20/schemas/interactions/DeleteQuestionsInteraction/DeleteQuestionsInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/DeleteQuestions/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:administration:RegisterExtendedConsentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RegisterExtendedConsent.1.rivtabp21/schemas/interactions/administration/RegisterExtendedConsentInteraction/RegisterExtendedConsentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/RegisterExtendedConsent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activityprescription:actoutcome:GetVaccinationHistoryResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activityprescription.actoutcome.GetVaccinationHistory.1.rivtabp21/schemas/interactions/GetVaccinationHistoryInteraction/GetVaccinationHistoryInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activityprescription/actoutcome/GetVaccinationHistory/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:intygsbestallning:certificate:order:RespondToOrderResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/intygsbestallning.certificate.order.RespondToOrder.1.rivtabp21/schemas/interactions/RespondToOrderInteraction/RespondToOrderInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/intygsbestallning/certificate/order/RespondToOrder/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetAdminCredentialsForPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetAdminCredentialsForPerson.2.rivtabp21/schemas/interactions/GetAdminCredentialsForPersonInteraction/GetAdminCredentialsForPersonInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetAdminCredentialsForPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetMaternityMedicalHistoryResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetMaternityMedicalHistory.2.rivtabp21/schemas/interactions/GetMaternityMedicalHistoryInteraction/GetMaternityMedicalHistoryInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetMaternityMedicalHistory/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetCommissionMembersIncludingProtectedPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetCommissionMembersIncludingProtectedPerson.2.rivtabp21/schemas/interactions/GetCommissionMembersIncludingProtectedPersonInteraction/GetCommissionMembersIncludingProtectedPersonInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetCommissionMembersIncludingProtectedPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CertificateStatusUpdateForCareResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CertificateStatusUpdateForCare.3.rivtabp21/schemas/interactions/CertificateStatusUpdateForCareInteraction/CertificateStatusUpdateForCareInteraction_3.2_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CertificateStatusUpdateForCare/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:description:GetAlertInformationResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.description.GetAlertInformation.2.rivtabp21/schemas/interactions/GetAlertInformationInteraction/GetAlertInformationInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/description/GetAlertInformation/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaAktuellaOrdinationerResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaAktuellaOrdinationer.1.rivtabp20/schemas/interactions/HamtaAktuellaOrdinationerInteraction/HamtaAktuellaOrdinationerInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaAktuellaOrdinationer/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:masterdata:citizen:citizen:LookupResidentsForProfileResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/masterdata.citizen.citizen.LookupResidentsForProfile.2.rivtabp21/schemas/interactions/LookupResidentsForProfileInteraction/LookupResidentsForProfileInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/masterdata/citizen/citizen/LookupResidentsForProfile/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:ProcessActivityResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessActivity.1.rivtabp20/schemas/interactions/ProcessActivityInteraction/ProcessActivityInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/ProcessActivity/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:description:GetFunctionalStatusResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.description.GetFunctionalStatus.2.rivtabp21/schemas/interactions/GetFunctionalStatusInteraction/GetFunctionalStatusInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/description/GetFunctionalStatus/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:supportprocess:serviceprovisioning:healthcareoffering:GetMasterDataChangeSetResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/supportprocess.serviceprovisioning.healthcareoffering.GetMasterDataChangeSet.1.rivtabp21/schemas/interactions/GetMasterDataChangeSetInteraction/GetMasterDataChangeSetInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/supportprocess/serviceprovisioning/healthcareoffering/GetMasterDataChangeSet/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:carelisting:GetListingResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetListing.1.rivtabp20/schemas/interactions/GetListingInteraction/GetListingInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetListing/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:UpdatePersonResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.UpdatePerson.3.rivtabp21/schemas/interactions/UpdatePersonInteraction/UpdatePersonInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/UpdatePerson/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:request:ProcessRequestConfirmationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.request.ProcessRequestConfirmation.1.rivtabp21/schemas/interactions/ProcessRequestConfirmationInteraction/ProcessRequestConfirmationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/request/ProcessRequestConfirmation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetReferralOutcomeResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetReferralOutcome.2.rivtabp21/schemas/interactions/GetReferralOutcomeInteraction/GetReferralOutcomeInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetReferralOutcome/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SattUtOrdinationVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SattUtOrdinationVard.1.rivtabp20/schemas/interactions/SattUtOrdinationVardInteraction/SattUtOrdinationVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SattUtOrdinationVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:KorrigeraOrdinationVardResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/KorrigeraOrdinationVard.4.rivtabp21/schemas/interactions/KorrigeraOrdinationVardInteraction/KorrigeraOrdinationVardInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/KorrigeraOrdinationVard/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:KorrigeraOrdinationVardResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.or.KorrigeraOrdinationVard.5.rivtabp21/schemas/interactions/KorrigeraOrdinationVardInteraction/KorrigeraOrdinationVardInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/or/KorrigeraOrdinationVard/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:request:ProcessRequestOutcomeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.request.ProcessRequestOutcome.1.rivtabp21/schemas/interactions/ProcessRequestOutcomeInteraction/ProcessRequestOutcomeInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/request/ProcessRequestOutcome/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetCredentialsForPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetCredentialsForPerson.2.rivtabp21/schemas/interactions/GetCredentialsForPersonInteraction/GetCredentialsForPersonInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetCredentialsForPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaKundInfoResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.axs.HamtaKundInfo.5.rivtabp21/schemas/interactions/HamtaKundInfoInteraction/HamtaKundInfoInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/axs/HamtaKundInfo/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:SaveFormTemplateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.SaveFormTemplate.2.rivtabp21/schemas/interactions/SaveFormTemplateInteraction/SaveFormTemplateInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/SaveFormTemplate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:KorrigeraOrdinationVardResponder:6",
+    "wsdlfilepath": "/opt/vp/wsdl/KorrigeraOrdinationVard.6.rivtabp21/schemas/interactions/KorrigeraOrdinationVardInteraction/KorrigeraOrdinationVardInteraction_6.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/KorrigeraOrdinationVard/6/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processmanagement:decisionsupport:insurancemedicinedecisionsupport:GetDiagnosInformationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/processmanagement.decisionsupport.insurancemedicinedecisionsupport.GetDiagnosInformation.1.rivtabp21/schemas/interactions/GetDiagnosInformationInteraction/GetDiagnosInformationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/processmanagement/decisionsupport/insurancemedicinedecisionsupport/GetDiagnosInformation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:ListUnitsWithinSectorResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.ListUnitsWithinSector.1.rivtabp21/schemas/interactions/ListUnitsWithinSectorInteraction/ListUnitsWithinSectorInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/ListUnitsWithinSector/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:UnregisterBlockResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.UnregisterBlock.4.rivtabp21/schemas/interactions/UnregisterBlockInteraction/UnregisterBlockInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/UnregisterBlock/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SattUtOrdinationVardResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/SattUtOrdinationVard.4.rivtabp21/schemas/interactions/SattUtOrdinationVardInteraction/SattUtOrdinationVardInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/SattUtOrdinationVard/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitListResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnitList.2.rivtabp21/schemas/interactions/GetHealthCareUnitListInteraction/GetHealthCareUnitListInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnitList/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:HamtaBarnResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.HamtaBarn.1.rivtabp20/schemas/interactions/HamtaBarnInteraction/HamtaBarnInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/HamtaBarn/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:RegistreraSamtyckeWebbResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RegistreraSamtyckeWebb.1.rivtabp20/schemas/interactions/RegistreraSamtyckeWebbInteraction/RegistreraSamtyckeWebbInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/RegistreraSamtyckeWebb/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:CreateMessageResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.CreateMessage.1.rivtabp21/schemas/interactions/CreateMessageInteraction/CreateMessageInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/CreateMessage/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:PrisfragaResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.Prisfraga.1.rivtabp20/schemas/interactions/PrisfragaInteraction/PrisfragaInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/Prisfraga/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:administration:GetExtendedConsentsForPatientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetExtendedConsentsForPatient.1.rivtabp21/schemas/interactions/administration/GetExtendedConsentsForPatientInteraction/GetExtendedConsentsForPatientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetExtendedConsentsForPatient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:AterkallaSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AterkallaSamtyckeVardsystem.1.rivtabp20/schemas/interactions/AterkallaSamtyckeVardsystemInteraction/AterkallaSamtyckeVardsystemInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/AterkallaSamtyckeVardsystem/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:accesscontrol:CheckConsentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CheckConsent.1.rivtabp21/schemas/interactions/accesscontrol/CheckConsentInteraction/CheckConsentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CheckConsent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaKundInfoResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaKundInfo.4.rivtabp21/schemas/interactions/HamtaKundInfoInteraction/HamtaKundInfoInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaKundInfo/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetImagingOutcomeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetImagingOutcome.1.rivtabp21/schemas/interactions/GetImagingOutcomeInteraction/GetImagingOutcomeInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetImagingOutcome/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendMessageToRecipientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendMessageToRecipient.2.rivtabp21/schemas/interactions/SendMessageToRecipientInteraction/SendMessageToRecipientInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendMessageToRecipient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAllTimeTypesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllTimeTypes.1.rivtabp21/schemas/interactions/GetAllTimeTypesInteraction/GetAllTimeTypesInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllTimeTypes/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaOrdinationVardResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaOrdinationVard.4.rivtabp21/schemas/interactions/SkapaOrdinationVardInteraction/SkapaOrdinationVardInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/SkapaOrdinationVard/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaIckeAktuellaOrdinationerFoddatumResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaIckeAktuellaOrdinationerFoddatum.1.rivtabp21/schemas/interactions/HamtaIckeAktuellaOrdinationerFoddatumInteraction/HamtaIckeAktuellaOrdinationerFoddatumInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaIckeAktuellaOrdinationerFoddatum/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:ForlangOrdinationVardResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.or.ForlangOrdinationVard.5.rivtabp21/schemas/interactions/ForlangOrdinationVardInteraction/ForlangOrdinationVardInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/or/ForlangOrdinationVard/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendMessageToRecipientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendMessageToRecipient.1.rivtabp21/schemas/interactions/SendMessageToRecipientInteraction/SendMessageToRecipientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendMessageToRecipient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:request:GetRequestInstructionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.request.GetRequestInstruction.1.rivtabp21/schemas/interactions/GetRequestInstructionInteraction/GetRequestInstructionInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/request/GetRequestInstruction/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:synchronization:RegisterTemporaryRevokeResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/RegisterTemporaryRevoke.2.rivtabp21/schemas/interactions/synchronization/RegisterTemporaryRevokeInteraction/RegisterTemporaryRevokeInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/RegisterTemporaryRevoke/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:SendMedicalCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SendMedicalCertificate.1.rivtabp20/schemas/interactions/SendMedicalCertificateInteraction/SendMedicalCertificateInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SendMedicalCertificate/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:SearchPersonsForProfileResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.SearchPersonsForProfile.3.rivtabp21/schemas/interactions/SearchPersonsForProfileInteraction/SearchPersonsForProfileInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/SearchPersonsForProfile/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkrivUtDosReceptResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkrivUtDosRecept.1.rivtabp20/schemas/interactions/SkrivUtDosReceptInteraction/SkrivUtDosReceptInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SkrivUtDosRecept/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:GetConsentsForCareProviderResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.GetConsentsForCareProvider.2.rivtabp21/schemas/interactions/GetConsentsForCareProviderInteraction/GetConsentsForCareProviderInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/GetConsentsForCareProvider/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:UppdateraDostillhorighetResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraDostillhorighet.1.rivtabp20/schemas/interactions/UppdateraDostillhorighetInteraction/UppdateraDostillhorighetInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/UppdateraDostillhorighet/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaKundInfoResponder:6",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaKundInfo.6.rivtabp21/schemas/interactions/HamtaKundInfoInteraction/HamtaKundInfoInteraction_6.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaKundInfo/6/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeleteLaboratoryReportResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteLaboratoryReport.1.rivtabp20/schemas/interactions/DeleteLaboratoryReportInteraction/DeleteLaboratoryReportInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeleteLaboratoryReport/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetStepResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetStep.1.rivtabp21/schemas/interactions/GetStepInteraction/GetStepInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetStep/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:auditing:log:GetLogsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.auditing.log.GetLogs.2.rivtabp21/schemas/interactions/GetLogsInteraction/GetLogsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/auditing/log/GetLogs/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:KontrolleraForskrivarbehorighetResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/KontrolleraForskrivarbehorighet.1.rivtabp20/schemas/interactions/KontrolleraForskrivarbehorighetInteraction/KontrolleraForskrivarbehorighetInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/KontrolleraForskrivarbehorighet/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaFolkInfoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaFolkInfo.1.rivtabp20/schemas/interactions/HamtaFolkInfoInteraction/HamtaFolkInfoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaFolkInfo/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:lv:reporting:pharmacovigilance:ProcessIndividualCaseSafetyReportResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/lv.reporting.pharmacovigilance.ProcessIndividualCaseSafetyReport.1.rivtabp21/schemas/interactions/ProcessIndividualCaseSafetyReportInteraction/ProcessIndividualCaseSafetyReportInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/lv/reporting/pharmacovigilance/ProcessIndividualCaseSafetyReport/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCitizenResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCitizen.3.rivtabp21/schemas/interactions/ListCertificatesForCitizenInteraction/ListCertificatesForCitizenInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCitizen/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitMembersResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnitMembers.2.rivtabp21/schemas/interactions/GetHealthCareUnitMembersInteraction/GetHealthCareUnitMembersInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnitMembers/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:UpdatePersonContactInformationResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.UpdatePersonContactInformation.3.rivtabp21/schemas/interactions/UpdatePersonContactInformationInteraction/UpdatePersonContactInformationInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/UpdatePersonContactInformation/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeleteCareEncounterResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteCareEncounter.1.rivtabp20/schemas/interactions/DeleteCareEncounterInteraction/DeleteCareEncounterInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeleteCareEncounter/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:RegistreraSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RegistreraSamtyckeVardsystem.1.rivtabp21/schemas/interactions/RegistreraSamtyckeVardsystemInteraction/RegistreraSamtyckeVardsystemInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/RegistreraSamtyckeVardsystem/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:FindAllQuestionsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/FindAllQuestions.1.rivtabp20/schemas/interactions/FindAllQuestionsInteraction/FindAllQuestionsInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/FindAllQuestions/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFPrivatpersonPDFResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LasLFPrivatpersonPDF.1.rivtabp20/schemas/interactions/LasLFPrivatpersonPDFInteraction/LasLFPrivatpersonPDFInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/LasLFPrivatpersonPDF/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetReferralOutcomeResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetReferralOutcome.3.rivtabp21/schemas/interactions/GetReferralOutcomeInteraction/GetReferralOutcomeInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetReferralOutcome/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:engagementindex:UpdateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/Update.1.rivtabp21/schemas/interactions/UpdateInteraction/UpdateInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/Update/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCare.1.rivtabp21/schemas/interactions/ListCertificatesForCareInteraction/ListCertificatesForCareInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCare/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:requeststatus:GetRequestActivitiesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/crm.requeststatus.GetRequestActivities.1.rivtabp21/schemas/interactions/GetRequestActivitiesInteraction/GetRequestActivitiesInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/crm/requeststatus/GetRequestActivities/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:SkapaHkdbKontoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.SkapaHkdbKonto.1.rivtabp20/schemas/interactions/SkapaHkdbKontoInteraction/SkapaHkdbKontoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/SkapaHkdbKonto/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaGallandeOrdinationsversionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaGallandeOrdinationsversion.1.rivtabp21/schemas/interactions/HamtaGallandeOrdinationsversionInteraction/HamtaGallandeOrdinationsversionInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaGallandeOrdinationsversion/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:HamtaLokaltProduktsortimentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaLokaltProduktsortiment.1.rivtabp20/schemas/interactions/HamtaLokaltProduktsortimentInteraction/HamtaLokaltProduktsortimentInteraction_1.1_RIVTABP20.wsdl",
+    "wsdlurl": "vp/HamtaLokaltProduktsortiment/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:AterkallaSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AterkallaSamtyckeVardsystem.1.rivtabp21/schemas/interactions/AterkallaSamtyckeVardsystemInteraction/AterkallaSamtyckeVardsystemInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/AterkallaSamtyckeVardsystem/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetLaboratoryOrderOutcomeResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetLaboratoryOrderOutcome.3.rivtabp21/schemas/interactions/GetLaboratoryOrderOutcomeInteraction/GetLaboratoryOrderOutcomeInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetLaboratoryOrderOutcome/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetUnitResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetUnit.2.rivtabp21/schemas/interactions/GetUnitInteraction/GetUnitInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetUnit/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:SaveFormPageResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.SaveFormPage.2.rivtabp21/schemas/interactions/SaveFormPageInteraction/SaveFormPageInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/SaveFormPage/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeleteConditionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteCondition.1.rivtabp20/schemas/interactions/DeleteConditionInteraction/DeleteConditionInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeleteCondition/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFForskrivareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LasLFForskrivare.1.rivtabp20/schemas/interactions/LasLFForskrivareInteraction/LasLFForskrivareInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/LasLFForskrivare/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:administration:GetExtendedPatientRelationsForPatientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetExtendedPatientRelationsForPatient.1.rivtabp21/schemas/interactions/administration/GetExtendedPatientRelationsForPatientInteraction/GetExtendedPatientRelationsForPatientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetExtendedPatientRelationsForPatient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:ListCertificatesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ListCertificates.1.rivtabp20/schemas/interactions/ListCertificatesInteraction/ListCertificatesInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/ListCertificates/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAvailableTimeslotsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAvailableTimeslots.1.rivtabp21/schemas/interactions/GetAvailableTimeslotsInteraction/GetAvailableTimeslotsInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAvailableTimeslots/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:administration:DeleteExtendedPatientRelationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteExtendedPatientRelation.1.rivtabp21/schemas/interactions/administration/DeleteExtendedPatientRelationInteraction/DeleteExtendedPatientRelationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/DeleteExtendedPatientRelation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaPatientInfoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaPatientInfo.1.rivtabp20/schemas/interactions/HamtaPatientInfoInteraction/HamtaPatientInfoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaPatientInfo/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeletePrescriptionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeletePrescription.1.rivtabp20/schemas/interactions/DeletePrescriptionInteraction/DeletePrescriptionInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeletePrescription/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:order:ProcessActivityOrderResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.order.ProcessActivityOrder.1.rivtabp21/schemas/interactions/ProcessActivityOrderInteraction/ProcessActivityOrderInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/order/ProcessActivityOrder/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:HamtaHkdbKontoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.HamtaHkdbKonto.1.rivtabp20/schemas/interactions/HamtaHkdbKontoInteraction/HamtaHkdbKontoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/HamtaHkdbKonto/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:CheckConsentResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.CheckConsent.2.rivtabp21/schemas/interactions/CheckConsentInteraction/CheckConsentInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/CheckConsent/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareWithQAResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCareWithQA.1.rivtabp21/schemas/interactions/ListCertificatesForCareWithQAInteraction/ListCertificatesForCareWithQAInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCareWithQA/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:UpdateBookingResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UpdateBooking.1.rivtabp21/schemas/interactions/UpdateBookingInteraction/UpdateBookingInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/UpdateBooking/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:RegisterCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.RegisterCertificate.1.rivtabp21/schemas/interactions/RegisterCertificateInteraction/RegisterCertificateInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/RegisterCertificate/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:population:residentmaster:UpdateResidentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UpdateResident.1.rivtabp21/schemas/interactions/UpdateResidentInteraction/UpdateResidentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/UpdateResident/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:UnregisterTemporaryRevokeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.UnregisterTemporaryRevoke.4.rivtabp21/schemas/interactions/UnregisterTemporaryRevokeInteraction/UnregisterTemporaryRevokeInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/UnregisterTemporaryRevoke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:IsUnitWithinSectorResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.IsUnitWithinSector.1.rivtabp21/schemas/interactions/IsUnitWithinSectorInteraction/IsUnitWithinSectorInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/IsUnitWithinSector/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:description:GetDiagnosisResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.description.GetDiagnosis.2.rivtabp21/schemas/interactions/GetDiagnosisInteraction/GetDiagnosisInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/description/GetDiagnosis/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:expo:SokDosmottagareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SokDosmottagare.1.rivtabp20/schemas/interactions/SokDosmottagareInteraction/SokDosmottagareInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SokDosmottagare/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:RapporteraBorttagLFResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RapporteraBorttagLF.1.rivtabp20/schemas/interactions/RapporteraBorttagLFInteraction/RapporteraBorttagLFInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/RapporteraBorttagLF/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:accesscontrol:CheckBlocksResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/CheckBlocks.3.rivtabp21/schemas/interactions/accesscontrol/CheckBlocksInteraction/CheckBlocksInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CheckBlocks/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:ProcessLaboratoryReportResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessLaboratoryReport.1.rivtabp20/schemas/interactions/ProcessLaboratoryReportInteraction/ProcessLaboratoryReportInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/ProcessLaboratoryReport/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:auditing:log:GetInfoLogsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.auditing.log.GetInfoLogs.2.rivtabp21/schemas/interactions/GetInfoLogsInteraction/GetInfoLogsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/auditing/log/GetInfoLogs/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaOrdinationshistorikResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaOrdinationshistorik.4.rivtabp21/schemas/interactions/HamtaOrdinationshistorikInteraction/HamtaOrdinationshistorikInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaOrdinationshistorik/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:UppdateraDosunderlagAvlidenResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraDosunderlagAvliden.1.rivtabp20/schemas/interactions/UppdateraDosunderlagAvlidenInteraction/UppdateraDosunderlagAvlidenInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/UppdateraDosunderlagAvliden/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaOrdinationerPrivatpersonResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaOrdinationerPrivatperson.4.rivtabp21/schemas/interactions/HamtaOrdinationerPrivatpersonInteraction/HamtaOrdinationerPrivatpersonInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaOrdinationerPrivatperson/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeleteActivityResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteActivity.1.rivtabp20/schemas/interactions/DeleteActivityInteraction/DeleteActivityInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeleteActivity/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:synchronization:UnregisterBlockResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/UnregisterBlock.2.rivtabp21/schemas/interactions/synchronization/UnregisterBlockInteraction/UnregisterBlockInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/UnregisterBlock/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:SkickaMeddelandenResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkickaMeddelanden.1.rivtabp20/schemas/interactions/SkickaMeddelandenInteraction/SkickaMeddelandenInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/SkickaMeddelanden/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:UppdateraSamtyckeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraSamtycke.4.rivtabp21/schemas/interactions/UppdateraSamtyckeInteraction/UppdateraSamtyckeInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/UppdateraSamtycke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activityprescription:actoutcome:GetVaccinationHistoryResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activityprescription.actoutcome.GetVaccinationHistory.2.rivtabp21/schemas/interactions/GetVaccinationHistoryInteraction/GetVaccinationHistoryInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activityprescription/actoutcome/GetVaccinationHistory/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:GetCertificateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.GetCertificate.2.rivtabp21/schemas/interactions/GetCertificateInteraction/GetCertificateInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/GetCertificate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:intygsbestallning:certificate:order:OrderAssessmentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/intygsbestallning.certificate.order.OrderAssessment.1.rivtabp21/schemas/interactions/OrderAssessmentInteraction/OrderAssessmentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/intygsbestallning/certificate/order/OrderAssessment/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:supportprocess:serviceprovisioning:healthcareoffering:UpdateProductsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/supportprocess.serviceprovisioning.healthcareoffering.UpdateProducts.1.rivtabp21/schemas/interactions/UpdateProductsInteraction/UpdateProductsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/supportprocess/serviceprovisioning/healthcareoffering/UpdateProducts/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:patientportal:IsActiveUserResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.patientportal.IsActiveUser.1.rivtabp21/schemas/interactions/IsActiveUserInteraction/IsActiveUserInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/patientportal/IsActiveUser/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:MakeBookingResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/MakeBooking.1.rivtabp21/schemas/interactions/MakeBookingInteraction/MakeBookingInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/MakeBooking/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetPersonAuthorizedToSystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetPersonAuthorizedToSystem.1.rivtabp21/schemas/interactions/GetPersonAuthorizedToSystemInteraction/GetPersonAuthorizedToSystemInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetPersonAuthorizedToSystem/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCare.2.rivtabp21/schemas/interactions/ListCertificatesForCareInteraction/ListCertificatesForCareInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCare/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:SkapaVardtagareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaVardtagare.1.rivtabp20/schemas/interactions/SkapaVardtagareInteraction/SkapaVardtagareInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/SkapaVardtagare/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:carelisting:GetListingTypesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetListingTypes.1.rivtabp20/schemas/interactions/GetListingTypesInteraction/GetListingTypesInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetListingTypes/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:HamtaMeddelandenResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaMeddelanden.1.rivtabp20/schemas/interactions/HamtaMeddelandenInteraction/HamtaMeddelandenInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/HamtaMeddelanden/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:GetFormQuestionPageResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.GetFormQuestionPage.2.rivtabp21/schemas/interactions/GetFormQuestionPageInteraction/GetFormQuestionPageInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/GetFormQuestionPage/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:supportprocess:serviceprovisioning:healthcareoffering:UpdateHealthcareOfferingsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/supportprocess.serviceprovisioning.healthcareoffering.UpdateHealthcareOfferings.1.rivtabp21/schemas/interactions/UpdateHealthcareOfferingsInteraction/UpdateHealthcareOfferingsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/supportprocess/serviceprovisioning/healthcareoffering/UpdateHealthcareOfferings/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:FindAllAnswersResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/FindAllAnswers.1.rivtabp20/schemas/interactions/FindAllAnswersInteraction/FindAllAnswersInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/FindAllAnswers/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:querying:GetAllBlocksResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllBlocks.2.rivtabp21/schemas/interactions/querying/GetAllBlocksInteraction/GetAllBlocksInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllBlocks/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaAktuellaOrdinationerResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaAktuellaOrdinationer.4.rivtabp21/schemas/interactions/HamtaAktuellaOrdinationerInteraction/HamtaAktuellaOrdinationerInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaAktuellaOrdinationer/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:RegisterCertificateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.RegisterCertificate.2.rivtabp21/schemas/interactions/RegisterCertificateInteraction/RegisterCertificateInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/RegisterCertificate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaKundInfoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaKundInfo.1.rivtabp20/schemas/interactions/HamtaKundInfoInteraction/HamtaKundInfoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaKundInfo/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:supportprocess:serviceprovisioning:healthcareoffering:GetHealthcareOfferingsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/supportprocess.serviceprovisioning.healthcareoffering.GetHealthcareOfferings.1.rivtabp21/schemas/interactions/GetHealthcareOfferingsInteraction/GetHealthcareOfferingsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/supportprocess/serviceprovisioning/healthcareoffering/GetHealthcareOfferings/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:RevokeExtendedBlockResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.RevokeExtendedBlock.4.rivtabp21/schemas/interactions/RevokeExtendedBlockInteraction/RevokeExtendedBlockInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/RevokeExtendedBlock/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:ReceiveMedicalCertificateQuestionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ReceiveMedicalCertificateQuestion.1.rivtabp20/schemas/interactions/ReceiveMedicalCertificateQuestionInteraction/ReceiveMedicalCertificateQuestionInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/ReceiveMedicalCertificateQuestion/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAvailableDatesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAvailableDates.1.rivtabp21/schemas/interactions/GetAvailableDatesInteraction/GetAvailableDatesInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAvailableDates/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:ProcessPrescriptionReasonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessPrescriptionReason.1.rivtabp20/schemas/interactions/ProcessPrescriptionReasonInteraction/ProcessPrescriptionReasonInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/ProcessPrescriptionReason/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:KontrolleraSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/KontrolleraSamtyckeVardsystem.1.rivtabp21/schemas/interactions/KontrolleraSamtyckeVardsystemInteraction/KontrolleraSamtyckeVardsystemInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/KontrolleraSamtyckeVardsystem/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:SokVardandeEnhetResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SokVardandeEnhet.1.rivtabp20/schemas/interactions/SokVardandeEnhetInteraction/SokVardandeEnhetInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/SokVardandeEnhet/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:querying:GetBlocksResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/GetBlocks.2.rivtabp21/schemas/interactions/querying/GetBlocksInteraction/GetBlocksInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetBlocks/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:AvbestallOrginalforpackningResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AvbestallOrginalforpackning.1.rivtabp20/schemas/interactions/AvbestallOrginalforpackningInteraction/AvbestallOrginalforpackningInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/AvbestallOrginalforpackning/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:SetConsentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.SetConsent.1.rivtabp21/schemas/interactions/SetConsentInteraction/SetConsentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/SetConsent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:carelisting:GetAvailableFacilitiesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAvailableFacilities.1.rivtabp20/schemas/interactions/GetAvailableFacilitiesInteraction/GetAvailableFacilitiesInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetAvailableFacilities/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:carelisting:GetPersonQueueStatusResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetPersonQueueStatus.1.rivtabp20/schemas/interactions/GetPersonQueueStatusInteraction/GetPersonQueueStatusInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetPersonQueueStatus/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:ProcessCareEncounterResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessCareEncounter.1.rivtabp20/schemas/interactions/ProcessCareEncounterInteraction/ProcessCareEncounterInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/ProcessCareEncounter/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetSubjectOfCareScheduleResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetSubjectOfCareSchedule.1.rivtabp21/schemas/interactions/GetSubjectOfCareScheduleInteraction/GetSubjectOfCareScheduleInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetSubjectOfCareSchedule/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendMessageToCareResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendMessageToCare.2.rivtabp21/schemas/interactions/SendMessageToCareInteraction/SendMessageToCareInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendMessageToCare/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:administration:GetPatientIdsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/GetPatientIds.2.rivtabp21/schemas/interactions/administration/GetPatientIdsInteraction/GetPatientIdsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetPatientIds/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFForskrivareResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.lf.LasLFForskrivare.4.rivtabp21/schemas/interactions/LasLFForskrivareInteraction/LasLFForskrivareInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/lf/LasLFForskrivare/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:SkrivUtLakemedelsforteckningResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkrivUtLakemedelsforteckning.1.rivtabp20/schemas/interactions/SkrivUtLakemedelsforteckningInteraction/SkrivUtLakemedelsforteckningInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SkrivUtLakemedelsforteckning/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:itintegration:registry:GetSupportedServiceContractsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.itintegration.registry.GetSupportedServiceContracts.2.rivtabp21/schemas/interactions/GetSupportedServiceContractsInteraction/GetSupportedServiceContractsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/itintegration/registry/GetSupportedServiceContracts/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:logistics:logistics:GetCareContactsResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.logistics.logistics.GetCareContacts.3.rivtabp21/schemas/interactions/GetCareContactsInteraction/GetCareContactsInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/logistics/logistics/GetCareContacts/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:RegisterMedicalCertificateResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/RegisterMedicalCertificate.3.rivtabp20/schemas/interactions/RegisterMedicalCertificateInteraction/RegisterMedicalCertificateInteraction_3.1_rivtabp20.wsdl",
+    "wsdlurl": "vp/RegisterMedicalCertificate/3/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:KontrolleraSamtyckeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/KontrolleraSamtycke.1.rivtabp20/schemas/interactions/KontrolleraSamtyckeInteraction/KontrolleraSamtyckeInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/KontrolleraSamtycke/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:GetPersonsForProfileUnrestrictedResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.GetPersonsForProfileUnrestricted.3.rivtabp21/schemas/interactions/GetPersonsForProfileUnrestrictedInteraction/GetPersonsForProfileUnrestrictedInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/GetPersonsForProfileUnrestricted/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:followup:groupoutcomes:qualityreporting:GetQualityIndicatorsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/followup.groupoutcomes.qualityreporting.GetQualityIndicators.1.rivtabp21/schemas/interactions/GetQualityIndicatorsInteraction/GetQualityIndicatorsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/followup/groupoutcomes/qualityreporting/GetQualityIndicators/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:GetCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.GetCertificate.1.rivtabp21/schemas/interactions/GetCertificateInteraction/GetCertificateInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/GetCertificate/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaOrdinationVardResponder:6",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaOrdinationVard.6.rivtabp21/schemas/interactions/SkapaOrdinationVardInteraction/SkapaOrdinationVardInteraction_6.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/SkapaOrdinationVard/6/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaOrdinationerPrivatpersonResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.or.HamtaOrdinationerPrivatperson.5.rivtabp21/schemas/interactions/HamtaOrdinationerPrivatpersonInteraction/HamtaOrdinationerPrivatpersonInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/or/HamtaOrdinationerPrivatperson/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:SendMedicalCertificateQuestionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SendMedicalCertificateQuestion.1.rivtabp20/schemas/interactions/SendMedicalCertificateQuestionInteraction/SendMedicalCertificateQuestionInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SendMedicalCertificateQuestion/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetCredentialsForPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetCredentialsForPerson.1.rivtabp21/schemas/interactions/GetCredentialsForPersonInteraction/GetCredentialsForPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetCredentialsForPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:RegisterExtendedBlockResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.RegisterExtendedBlock.4.rivtabp21/schemas/interactions/RegisterExtendedBlockInteraction/RegisterExtendedBlockInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/RegisterExtendedBlock/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetPersonAuthorizedToSystemIncludingProtectedPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetPersonAuthorizedToSystemIncludingProtectedPerson.1.rivtabp21/schemas/interactions/GetPersonAuthorizedToSystemIncludingProtectedPersonInteraction/GetPersonAuthorizedToSystemIncludingProtectedPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetPersonAuthorizedToSystemIncludingProtectedPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetCredentialsForPersonIncludingProtectedPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetCredentialsForPersonIncludingProtectedPerson.2.rivtabp21/schemas/interactions/GetCredentialsForPersonIncludingProtectedPersonInteraction/GetCredentialsForPersonIncludingProtectedPersonInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetCredentialsForPersonIncludingProtectedPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:GetFormTemplatesResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.GetFormTemplates.2.rivtabp21/schemas/interactions/GetFormTemplatesInteraction/GetFormTemplatesInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/GetFormTemplates/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendMessageToCareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendMessageToCare.1.rivtabp21/schemas/interactions/SendMessageToCareInteraction/SendMessageToCareInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendMessageToCare/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:IgnoreFormResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.IgnoreForm.1.rivtabp21/schemas/interactions/IgnoreFormInteraction/IgnoreFormInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/IgnoreForm/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:BestallOrginalforpackningResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/BestallOrginalforpackning.1.rivtabp20/schemas/interactions/BestallOrginalforpackningInteraction/BestallOrginalforpackningInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/BestallOrginalforpackning/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:followup:groupoutcomes:qualityreporting:GetQualityIndicatorsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/followup.groupoutcomes.qualityreporting.GetQualityIndicators.2.rivtabp21/schemas/interactions/GetQualityIndicatorsInteraction/GetQualityIndicatorsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/followup/groupoutcomes/qualityreporting/GetQualityIndicators/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaOrdinationerPrivatpersonResponder:6",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaOrdinationerPrivatperson.6.rivtabp21/schemas/interactions/HamtaOrdinationerPrivatpersonInteraction/HamtaOrdinationerPrivatpersonInteraction_6.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaOrdinationerPrivatperson/6/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:RegistreraHkdbTransaktionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.RegistreraHkdbTransaktion.1.rivtabp20/schemas/interactions/RegistreraHkdbTransaktionInteraction/RegistreraHkdbTransaktionInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/RegistreraHkdbTransaktion/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:CheckBlocksResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.CheckBlocks.4.rivtabp21/schemas/interactions/CheckBlocksInteraction/CheckBlocksInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/CheckBlocks/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:querying:GetAllBlocksForPatientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllBlocksForPatient.2.rivtabp21/schemas/interactions/querying/GetAllBlocksForPatientInteraction/GetAllBlocksForPatientInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllBlocksForPatient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:TaBortHkdbKontoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.TaBortHkdbKonto.1.rivtabp20/schemas/interactions/TaBortHkdbKontoInteraction/TaBortHkdbKontoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/TaBortHkdbKonto/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetEmployeeIncludingProtectedPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetEmployeeIncludingProtectedPerson.2.rivtabp21/schemas/interactions/GetEmployeeIncludingProtectedPersonInteraction/GetEmployeeIncludingProtectedPersonInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetEmployeeIncludingProtectedPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:ForlangOrdinationVardResponder:6",
+    "wsdlfilepath": "/opt/vp/wsdl/ForlangOrdinationVard.6.rivtabp21/schemas/interactions/ForlangOrdinationVardInteraction/ForlangOrdinationVardInteraction_6.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/ForlangOrdinationVard/6/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareWithQAResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCareWithQA.2.rivtabp21/schemas/interactions/ListCertificatesForCareWithQAInteraction/ListCertificatesForCareWithQAInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCareWithQA/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:RegistreraSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RegistreraSamtyckeVardsystem.1.rivtabp20/schemas/interactions/RegistreraSamtyckeVardsystemInteraction/RegistreraSamtyckeVardsystemInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/RegistreraSamtyckeVardsystem/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetCredentialsForPersonIncludingProtectedPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetCredentialsForPersonIncludingProtectedPerson.1.rivtabp21/schemas/interactions/GetCredentialsForPersonIncludingProtectedPersonInteraction/GetCredentialsForPersonIncludingProtectedPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetCredentialsForPersonIncludingProtectedPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:DeleteAnswersResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteAnswers.1.rivtabp20/schemas/interactions/DeleteAnswersInteraction/DeleteAnswersInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/DeleteAnswers/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:engagementindex:GetUpdatesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetUpdates.1.rivtabp21/schemas/interactions/GetUpdatesInteraction/GetUpdatesInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetUpdates/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:AterkallaSamtyckeWebbResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AterkallaSamtyckeWebb.1.rivtabp20/schemas/interactions/AterkallaSamtyckeWebbInteraction/AterkallaSamtyckeWebbInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/AterkallaSamtyckeWebb/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:HamtaHkdbTransaktionerWebbResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.HamtaHkdbTransaktionerWebb.1.rivtabp20/schemas/interactions/HamtaHkdbTransaktionerWebbInteraction/HamtaHkdbTransaktionerWebbInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/HamtaHkdbTransaktionerWebb/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:auditing:log:GetAccessLogsForPatientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.auditing.log.GetAccessLogsForPatient.2.rivtabp21/schemas/interactions/GetAccessLogsForPatientInteraction/GetAccessLogsForPatientInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/auditing/log/GetAccessLogsForPatient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaEpsosSamtyckeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaEpsosSamtycke.4.rivtabp21/schemas/interactions/HamtaEpsosSamtyckeInteraction/HamtaEpsosSamtyckeInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaEpsosSamtycke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:AvregistreraDosunderlagResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AvregistreraDosunderlag.1.rivtabp21/schemas/interactions/AvregistreraDosunderlagInteraction/AvregistreraDosunderlagInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/AvregistreraDosunderlag/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:RegisterTemporaryExtendedRevokeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.RegisterTemporaryExtendedRevoke.4.rivtabp21/schemas/interactions/RegisterTemporaryExtendedRevokeInteraction/RegisterTemporaryExtendedRevokeInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/RegisterTemporaryExtendedRevoke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:CreateFormRequestResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.CreateFormRequest.2.rivtabp21/schemas/interactions/CreateFormRequestInteraction/CreateFormRequestInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/CreateFormRequest/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:querying:GetPatientRelationsForCareProviderResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetPatientRelationsForCareProvider.1.rivtabp21/schemas/interactions/querying/GetPatientRelationsForCareProviderInteraction/GetPatientRelationsForCareProviderInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetPatientRelationsForCareProvider/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:RevokeCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.RevokeCertificate.1.rivtabp21/schemas/interactions/RevokeCertificateInteraction/RevokeCertificateInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/RevokeCertificate/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:RegisterTemporaryRevokeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.RegisterTemporaryRevoke.4.rivtabp21/schemas/interactions/RegisterTemporaryRevokeInteraction/RegisterTemporaryRevokeInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/RegisterTemporaryRevoke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:querying:GetConsentsForPatientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetConsentsForPatient.1.rivtabp21/schemas/interactions/querying/GetConsentsForPatientInteraction/GetConsentsForPatientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetConsentsForPatient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:ProcessConditionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessCondition.1.rivtabp20/schemas/interactions/ProcessConditionInteraction/ProcessConditionInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/ProcessCondition/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:ReceiveMedicalCertificateAnswerResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ReceiveMedicalCertificateAnswer.1.rivtabp20/schemas/interactions/ReceiveMedicalCertificateAnswerInteraction/ReceiveMedicalCertificateAnswerInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/ReceiveMedicalCertificateAnswer/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:CreateLinkedFormResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.CreateLinkedForm.1.rivtabp21/schemas/interactions/CreateLinkedFormInteraction/CreateLinkedFormInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/CreateLinkedForm/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:administration:CancelExtendedConsentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CancelExtendedConsent.1.rivtabp21/schemas/interactions/administration/CancelExtendedConsentInteraction/CancelExtendedConsentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CancelExtendedConsent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:itintegration:registry:GetLogicalAddresseesByServiceContractResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.itintegration.registry.GetLogicalAddresseesByServiceContract.2.rivtabp21/schemas/interactions/GetLogicalAddresseesByServiceContractInteraction/GetLogicalAddresseesByServiceContractInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/itintegration/registry/GetLogicalAddresseesByServiceContract/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:GetExtendedBlocksForPatientResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.GetExtendedBlocksForPatient.4.rivtabp21/schemas/interactions/GetExtendedBlocksForPatientInteraction/GetExtendedBlocksForPatientInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/GetExtendedBlocksForPatient/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processmanagement:decisionsupport:insurancemedicinedecisionsupport:GetVersionsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/processmanagement.decisionsupport.insurancemedicinedecisionsupport.GetVersions.1.rivtabp21/schemas/interactions/GetVersionsInteraction/GetVersionsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/processmanagement/decisionsupport/insurancemedicinedecisionsupport/GetVersions/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:GetPersonContactInformationResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.GetPersonContactInformation.3.rivtabp21/schemas/interactions/GetPersonContactInformationInteraction/GetPersonContactInformationInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/GetPersonContactInformation/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:description:GetCareDocumentationResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.description.GetCareDocumentation.2.rivtabp21/schemas/interactions/GetCareDocumentationInteraction/GetCareDocumentationInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/description/GetCareDocumentation/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:UppdateraSamtyckeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraSamtycke.1.rivtabp20/schemas/interactions/UppdateraSamtyckeInteraction/UppdateraSamtyckeInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/UppdateraSamtycke/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:carelisting:CreateListingResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CreateListing.1.rivtabp20/schemas/interactions/CreateListingInteraction/CreateListingInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/CreateListing/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitMembersResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnitMembers.1.rivtabp21/schemas/interactions/GetHealthCareUnitMembersInteraction/GetHealthCareUnitMembersInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnitMembers/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:eservicesupply:eoffering:GetAvailableEServicesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAvailableEServices.1.rivtabp21/schemas/interactions/GetAvailableEServicesInteraction/GetAvailableEServicesInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAvailableEServices/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetOperationalInformationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetOperationalInformation.1.rivtabp21/schemas/interactions/GetOperationalInformationInteraction/GetOperationalInformationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetOperationalInformation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:logistics:logistics:GetCareContactsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.logistics.logistics.GetCareContacts.2.rivtabp21/schemas/interactions/GetCareContactsInteraction/GetCareContactsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/logistics/logistics/GetCareContacts/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCare.3.rivtabp21/schemas/interactions/ListCertificatesForCareInteraction/ListCertificatesForCareInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCare/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:KontrolleraSamtyckeVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/KontrolleraSamtyckeVardsystem.1.rivtabp20/schemas/interactions/KontrolleraSamtyckeVardsystemInteraction/KontrolleraSamtyckeVardsystemInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/KontrolleraSamtyckeVardsystem/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SetCertificateStatusResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SetCertificateStatus.2.rivtabp21/schemas/interactions/SetCertificateStatusInteraction/SetCertificateStatusInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SetCertificateStatus/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaExpeditionsIdResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaExpeditionsId.1.rivtabp20/schemas/interactions/HamtaExpeditionsIdInteraction/HamtaExpeditionsIdInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaExpeditionsId/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:KorrigeraOrdinationVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/KorrigeraOrdinationVard.1.rivtabp20/schemas/interactions/KorrigeraOrdinationVardInteraction/KorrigeraOrdinationVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/KorrigeraOrdinationVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:GetFormTemplateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.GetFormTemplate.2.rivtabp21/schemas/interactions/GetFormTemplateInteraction/GetFormTemplateInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/GetFormTemplate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:GetCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetCertificate.1.rivtabp20/schemas/interactions/GetCertificateInteraction/GetCertificateInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetCertificate/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:eservicesupply:eoffering:GetAvailableEServicesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAvailableEServices.1.rivtabp20/schemas/interactions/GetAvailableEServicesInteraction/GetAvailableEServicesInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/GetAvailableEServices/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CertificateStatusUpdateForCareResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CertificateStatusUpdateForCare.2.rivtabp21/schemas/interactions/CertificateStatusUpdateForCareInteraction/CertificateStatusUpdateForCareInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CertificateStatusUpdateForCare/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:registry:GetSupportedServiceContractsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetSupportedServiceContracts.1.rivtabp21/schemas/interactions/GetSupportedServiceContractsInteraction/GetSupportedServiceContractsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetSupportedServiceContracts/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:RegisterExtendedConsentResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.RegisterExtendedConsent.2.rivtabp21/schemas/interactions/RegisterExtendedConsentInteraction/RegisterExtendedConsentInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/RegisterExtendedConsent/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:basic:ProcessObservationsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.basic.ProcessObservations.1.rivtabp21/schemas/interactions/ProcessObservationsInteraction/ProcessObservationsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/basic/ProcessObservations/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetConversationsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetConversations.1.rivtabp21/schemas/interactions/GetConversationsInteraction/GetConversationsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetConversations/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:logistics:logistics:GetCarePlansResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.logistics.logistics.GetCarePlans.2.rivtabp21/schemas/interactions/GetCarePlansInteraction/GetCarePlansInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/logistics/logistics/GetCarePlans/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:DeleteExtendedConsentResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.DeleteExtendedConsent.2.rivtabp21/schemas/interactions/DeleteExtendedConsentInteraction/DeleteExtendedConsentInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/DeleteExtendedConsent/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:MakuleraOrdinationVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/MakuleraOrdinationVard.1.rivtabp20/schemas/interactions/MakuleraOrdinationVardInteraction/MakuleraOrdinationVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/MakuleraOrdinationVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetAllCareTypesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetAllCareTypes.1.rivtabp21/schemas/interactions/GetAllCareTypesInteraction/GetAllCareTypesInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetAllCareTypes/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaDosunderlagVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaDosunderlagVard.1.rivtabp21/schemas/interactions/SkapaDosunderlagVardInteraction/SkapaDosunderlagVardInteraction_1.2_rivtabp21.wsdl",
+    "wsdlurl": "vp/SkapaDosunderlagVard/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCareWithQAResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCareWithQA.3.rivtabp21/schemas/interactions/ListCertificatesForCareWithQAInteraction/ListCertificatesForCareWithQAInteraction_3.2_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCareWithQA/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFVardsystemResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.lf.LasLFVardsystem.4.rivtabp21/schemas/interactions/LasLFVardsystemInteraction/LasLFVardsystemInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/lf/LasLFVardsystem/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informatics:terminology:GetTerminologySubsetResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetTerminologySubset.1.rivtabp20/schemas/interactions/GetTerminologySubsetInteraction/GetTerminologySubsetInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/GetTerminologySubset/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetPersonAuthorizedToSystemResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetPersonAuthorizedToSystem.2.rivtabp21/schemas/interactions/GetPersonAuthorizedToSystemInteraction/GetPersonAuthorizedToSystemInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetPersonAuthorizedToSystem/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:SaveFormResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.SaveForm.2.rivtabp21/schemas/interactions/SaveFormInteraction/SaveFormInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/SaveForm/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaOrdinationVardResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.or.SkapaOrdinationVard.5.rivtabp21/schemas/interactions/SkapaOrdinationVardInteraction/SkapaOrdinationVardInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/or/SkapaOrdinationVard/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetProcessesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetProcesses.1.rivtabp21/schemas/interactions/GetProcessesInteraction/GetProcessesInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetProcesses/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnit.1.rivtabp21/schemas/interactions/GetHealthCareUnitInteraction/GetHealthCareUnitInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnit/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkrivUtMinaSparadeReceptResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkrivUtMinaSparadeRecept.1.rivtabp21/schemas/interactions/SkrivUtMinaSparadeReceptInteraction/SkrivUtMinaSparadeReceptInteraction_1.1_rivtabp21.wsdl",
+    "wsdlurl": "vp/SkrivUtMinaSparadeRecept/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:registry:GetLogicalAddresseesByServiceContractResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetLogicalAddresseesByServiceContract.1.rivtabp21/schemas/interactions/GetLogicalAddresseesByServiceContractInteraction/GetLogicalAddresseesByServiceContractInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetLogicalAddresseesByServiceContract/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkapaDosunderlagVardResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkapaDosunderlagVard.1.rivtabp20/schemas/interactions/SkapaDosunderlagVardInteraction/SkapaDosunderlagVardInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SkapaDosunderlagVard/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnit.2.rivtabp21/schemas/interactions/GetHealthCareUnitInteraction/GetHealthCareUnitInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnit/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:UppdateraMeddelandeStatusResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraMeddelandeStatus.1.rivtabp20/schemas/interactions/UppdateraMeddelandeStatusInteraction/UppdateraMeddelandeStatusInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/UppdateraMeddelandeStatus/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:synchronization:UnregisterTemporaryRevokeResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/UnregisterTemporaryRevoke.2.rivtabp21/schemas/interactions/synchronization/UnregisterTemporaryRevokeInteraction/UnregisterTemporaryRevokeInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/UnregisterTemporaryRevoke/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:administration:CancelExtendedPatientRelationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CancelExtendedPatientRelation.1.rivtabp21/schemas/interactions/administration/CancelExtendedPatientRelationInteraction/CancelExtendedPatientRelationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CancelExtendedPatientRelation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetProcessResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetProcess.1.rivtabp21/schemas/interactions/GetProcessInteraction/GetProcessInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetProcess/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:UppdateraVardtagareinformationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/UppdateraVardtagareinformation.1.rivtabp20/schemas/interactions/UppdateraVardtagareinformationInteraction/UppdateraVardtagareinformationInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/UppdateraVardtagareinformation/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetEmployeeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetEmployee.1.rivtabp21/schemas/interactions/GetEmployeeInteraction/GetEmployeeInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetEmployee/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:RevokeMedicalCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RevokeMedicalCertificate.1.rivtabp20/schemas/interactions/RevokeMedicalCertificateInteraction/RevokeMedicalCertificateInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/RevokeMedicalCertificate/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetEmployeeIncludingProtectedPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetEmployeeIncludingProtectedPerson.1.rivtabp21/schemas/interactions/GetEmployeeIncludingProtectedPersonInteraction/GetEmployeeIncludingProtectedPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetEmployeeIncludingProtectedPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:RevokeCertificateResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.RevokeCertificate.2.rivtabp21/schemas/interactions/RevokeCertificateInteraction/RevokeCertificateInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/RevokeCertificate/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:patientportal:AddMessageToPatientPortalInboxResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.patientportal.AddMessageToPatientPortalInbox.1.rivtabp21/schemas/interactions/AddMessageToPatientPortalInboxInteraction/AddMessageToPatientPortalInboxInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/patientportal/AddMessageToPatientPortalInbox/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SetCertificateStatusResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SetCertificateStatus.1.rivtabp21/schemas/interactions/SetCertificateStatusInteraction/SetCertificateStatusInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SetCertificateStatus/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:GetFilesForOrderIdResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.GetFilesForOrderId.3.rivtabp21/schemas/interactions/GetFilesForOrderIdInteraction/GetFilesForOrderIdInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/GetFilesForOrderId/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendCertificateToRecipientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendCertificateToRecipient.2.rivtabp21/schemas/interactions/SendCertificateToRecipientInteraction/SendCertificateToRecipientInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendCertificateToRecipient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:UpdatePersonContactInformationUnrestrictedResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.UpdatePersonContactInformationUnrestricted.3.rivtabp21/schemas/interactions/UpdatePersonContactInformationUnrestrictedInteraction/UpdatePersonContactInformationUnrestrictedInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/UpdatePersonContactInformationUnrestricted/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:supportprocess:serviceprovisioning:healthcareoffering:GetProductsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/supportprocess.serviceprovisioning.healthcareoffering.GetProducts.1.rivtabp21/schemas/interactions/GetProductsInteraction/GetProductsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/supportprocess/serviceprovisioning/healthcareoffering/GetProducts/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CertificateStatusUpdateForCareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CertificateStatusUpdateForCare.1.rivtabp21/schemas/interactions/CertificateStatusUpdateForCareInteraction/CertificateStatusUpdateForCareInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CertificateStatusUpdateForCare/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:log:querying:GetAccessLogsForPatientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ehr.log.querying.GetAccessLogsForPatient.1.rivtabp21/schemas/interactions/querying/GetAccessLogsForPatientInteraction/GetAccessLogsForPatientInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/ehr/log/querying/GetAccessLogsForPatient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaGallandeOrdinationsversionResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaGallandeOrdinationsversion.1.rivtabp20/schemas/interactions/HamtaGallandeOrdinationsversionInteraction/HamtaGallandeOrdinationsversionInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaGallandeOrdinationsversion/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaOrdinationshistorikResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaOrdinationshistorik.1.rivtabp20/schemas/interactions/HamtaOrdinationshistorikInteraction/HamtaOrdinationshistorikInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaOrdinationshistorik/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:SkrivUtDosReceptResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SkrivUtDosRecept.1.rivtabp21/schemas/interactions/SkrivUtDosReceptInteraction/SkrivUtDosReceptInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/SkrivUtDosRecept/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetCommissionMembersResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetCommissionMembers.2.rivtabp21/schemas/interactions/GetCommissionMembersInteraction/GetCommissionMembersInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetCommissionMembers/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:employee:GetEmployeeResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.employee.GetEmployee.2.rivtabp21/schemas/interactions/GetEmployeeInteraction/GetEmployeeInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/employee/GetEmployee/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:accesscontrol:AssertCareEngagementResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/AssertCareEngagement.1.rivtabp20/schemas/interactions/AssertCareEngagementInteraction/AssertCareEngagementInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/AssertCareEngagement/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LFUtskriftResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LFUtskrift.1.rivtabp20/schemas/interactions/LFUtskriftInteraction/LFUtskriftInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/LFUtskrift/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:RapporteraExpeditionLFResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RapporteraExpeditionLF.1.rivtabp20/schemas/interactions/RapporteraExpeditionLFInteraction/RapporteraExpeditionLFInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/RapporteraExpeditionLF/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-skl:followup:groupoutcomes:qualityreporting:GetDistributedQualityReportResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/followup.groupoutcomes.qualityreporting.GetDistributedQualityReport.3.rivtabp21/schemas/interactions/GetDistributedQualityReportInteraction/GetDistributedQualityReportInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/followup/groupoutcomes/qualityreporting/GetDistributedQualityReport/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetAdminCredentialsForPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetAdminCredentialsForPerson.1.rivtabp21/schemas/interactions/GetAdminCredentialsForPersonInteraction/GetAdminCredentialsForPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetAdminCredentialsForPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:SendMedicalCertificateAnswerResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SendMedicalCertificateAnswer.1.rivtabp20/schemas/interactions/SendMedicalCertificateAnswerInteraction/SendMedicalCertificateAnswerInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SendMedicalCertificateAnswer/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:administration:DeleteExtendedConsentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeleteExtendedConsent.1.rivtabp21/schemas/interactions/administration/DeleteExtendedConsentInteraction/DeleteExtendedConsentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/DeleteExtendedConsent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetAdminCredentialsForPersonIncludingProtectedPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetAdminCredentialsForPersonIncludingProtectedPerson.2.rivtabp21/schemas/interactions/GetAdminCredentialsForPersonIncludingProtectedPersonInteraction/GetAdminCredentialsForPersonIncludingProtectedPersonInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetAdminCredentialsForPersonIncludingProtectedPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:CreateDraftCertificateResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.CreateDraftCertificate.1.rivtabp21/schemas/interactions/CreateDraftCertificateInteraction/CreateDraftCertificateInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/CreateDraftCertificate/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:GetPersonContactInformationUnrestrictedResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.GetPersonContactInformationUnrestricted.3.rivtabp21/schemas/interactions/GetPersonContactInformationUnrestrictedInteraction/GetPersonContactInformationUnrestrictedInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/GetPersonContactInformationUnrestricted/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCitizenResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCitizen.4.rivtabp21/schemas/interactions/ListCertificatesForCitizenInteraction/ListCertificatesForCitizenInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCitizen/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:LinkPersonIdentityResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.LinkPersonIdentity.3.rivtabp21/schemas/interactions/LinkPersonIdentityInteraction/LinkPersonIdentityInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/LinkPersonIdentity/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:followup:qualityregistry:nkrr:GetFormDataResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/followup.qualityregistry.nkrr.GetFormData.1.rivtabp21/schemas/interactions/GetFormDataInteraction/GetFormDataInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/followup/qualityregistry/nkrr/GetFormData/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:MakuleraOrdinationVardResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/MakuleraOrdinationVard.4.rivtabp21/schemas/interactions/MakuleraOrdinationVardInteraction/MakuleraOrdinationVardInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/MakuleraOrdinationVard/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaIckeAktuellaOrdinationerResponder:5",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaIckeAktuellaOrdinationer.5.rivtabp21/schemas/interactions/HamtaIckeAktuellaOrdinationerInteraction/HamtaIckeAktuellaOrdinationerInteraction_5.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaIckeAktuellaOrdinationer/5/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:engagementindex:FindContentResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/FindContent.1.rivtabp21/schemas/interactions/FindContentInteraction/FindContentInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/FindContent/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:HamtaOrginalforpackningResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaOrginalforpackning.1.rivtabp20/schemas/interactions/HamtaOrginalforpackningInteraction/HamtaOrginalforpackningInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/HamtaOrginalforpackning/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-skl:followup:groupoutcomes:qualityreporting:GetQualityIndicatorsResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/followup.groupoutcomes.qualityreporting.GetQualityIndicators.3.rivtabp21/schemas/interactions/GetQualityIndicatorsInteraction/GetQualityIndicatorsInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/followup/groupoutcomes/qualityreporting/GetQualityIndicators/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:blocking:synchronization:RegisterBlockResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/RegisterBlock.2.rivtabp21/schemas/interactions/synchronization/RegisterBlockInteraction/RegisterBlockInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/RegisterBlock/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetECGOutcomeResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetECGOutcome.1.rivtabp21/schemas/interactions/GetECGOutcomeInteraction/GetECGOutcomeInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetECGOutcome/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetPersonAuthorizedToSystemIncludingProtectedPersonResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetPersonAuthorizedToSystemIncludingProtectedPerson.2.rivtabp21/schemas/interactions/GetPersonAuthorizedToSystemIncludingProtectedPersonInteraction/GetPersonAuthorizedToSystemIncludingProtectedPersonInteraction_2.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetPersonAuthorizedToSystemIncludingProtectedPerson/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:itintegration:engagementindex:ProcessNotificationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ProcessNotification.1.rivtabp21/schemas/interactions/ProcessNotificationInteraction/ProcessNotificationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/ProcessNotification/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetPendingConsentsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetPendingConsents.1.rivtabp21/schemas/interactions/GetPendingConsentsInteraction/GetPendingConsentsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetPendingConsents/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activityprescription:actoutcome:GetMedicationHistoryResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activityprescription.actoutcome.GetMedicationHistory.2.rivtabp21/schemas/interactions/GetMedicationHistoryInteraction/GetMedicationHistoryInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activityprescription/actoutcome/GetMedicationHistory/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:CancelExtendedConsentResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.CancelExtendedConsent.2.rivtabp21/schemas/interactions/CancelExtendedConsentInteraction/CancelExtendedConsentInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/CancelExtendedConsent/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:druglogistics:dosedispensing:HamtaVardtagareinformationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaVardtagareinformation.1.rivtabp20/schemas/interactions/HamtaVardtagareinformationInteraction/HamtaVardtagareinformationInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/HamtaVardtagareinformation/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:KontrolleraFormanResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.KontrolleraForman.1.rivtabp20/schemas/interactions/KontrolleraFormanInteraction/KontrolleraFormanInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/KontrolleraForman/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:RegisterBlockResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.RegisterBlock.4.rivtabp21/schemas/interactions/RegisterBlockInteraction/RegisterBlockInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/RegisterBlock/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:AvregistreraEpsosSamtyckeResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/AvregistreraEpsosSamtycke.4.rivtabp21/schemas/interactions/AvregistreraEpsosSamtyckeInteraction/AvregistreraEpsosSamtyckeInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/AvregistreraEpsosSamtycke/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:CreateConversationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.CreateConversation.1.rivtabp21/schemas/interactions/CreateConversationInteraction/CreateConversationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/CreateConversation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:authorizationmanagement:GetAdminCredentialsForPersonIncludingProtectedPersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.authorizationmanagement.GetAdminCredentialsForPersonIncludingProtectedPerson.1.rivtabp21/schemas/interactions/GetAdminCredentialsForPersonIncludingProtectedPersonInteraction/GetAdminCredentialsForPersonIncludingProtectedPersonInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/authorizationmanagement/GetAdminCredentialsForPersonIncludingProtectedPerson/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaIckeAktuellaOrdinationerResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaIckeAktuellaOrdinationer.4.rivtabp21/schemas/interactions/HamtaIckeAktuellaOrdinationerInteraction/HamtaIckeAktuellaOrdinationerInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaIckeAktuellaOrdinationer/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:log:store:StoreLogResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/ehr.log.store.StoreLog.1.rivtabp21/schemas/interactions/store/StoreLogInteraction/StoreLogInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/ehr/log/store/StoreLog/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFPrivatpersonResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/se.apotekensservice.lf.LasLFPrivatperson.4.rivtabp21/schemas/interactions/LasLFPrivatpersonInteraction/LasLFPrivatpersonInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/se.apotekensservice/lf/LasLFPrivatperson/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:GetBlocksResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.GetBlocks.4.rivtabp21/schemas/interactions/GetBlocksInteraction/GetBlocksInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/GetBlocks/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv-application:sob:apps:resident:GetNotificationsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/sob.apps.resident.GetNotifications.1.rivtabp21/schemas/interactions/GetNotificationsInteraction/GetNotificationsInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/sob/apps/resident/GetNotifications/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetCancelledAndRebookedResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetCancelledAndRebooked.1.rivtabp20/schemas/interactions/GetCancelledAndRebookedInteraction/GetCancelledAndRebookedInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/GetCancelledAndRebooked/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:DeleteExtendedBlockResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.DeleteExtendedBlock.4.rivtabp21/schemas/interactions/DeleteExtendedBlockInteraction/DeleteExtendedBlockInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/DeleteExtendedBlock/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitListResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnitList.1.rivtabp21/schemas/interactions/GetHealthCareUnitListInteraction/GetHealthCareUnitListInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnitList/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:GetFormsResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.GetForms.2.rivtabp21/schemas/interactions/GetFormsInteraction/GetFormsInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/GetForms/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListCertificatesForCitizenResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListCertificatesForCitizen.1.rivtabp21/schemas/interactions/ListCertificatesForCitizenInteraction/ListCertificatesForCitizenInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListCertificatesForCitizen/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:querying:GetPatientRelationsForPatientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetPatientRelationsForPatient.1.rivtabp21/schemas/interactions/querying/GetPatientRelationsForPatientInteraction/GetPatientRelationsForPatientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetPatientRelationsForPatient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFVardsystemResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LasLFVardsystem.1.rivtabp20/schemas/interactions/LasLFVardsystemInteraction/LasLFVardsystemInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/LasLFVardsystem/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:RegisterCertificateResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.RegisterCertificate.3.rivtabp21/schemas/interactions/RegisterCertificateInteraction/RegisterCertificateInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/RegisterCertificate/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:KopplaBarnKontoResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.KopplaBarnKonto.1.rivtabp20/schemas/interactions/KopplaBarnKontoInteraction/KopplaBarnKontoInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/KopplaBarnKonto/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:insuranceprocess:healthreporting:SetCertificateStatusResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/SetCertificateStatus.1.rivtabp20/schemas/interactions/SetCertificateStatusInteraction/SetCertificateStatusInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/SetCertificateStatus/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:population:residentmaster:LookupResidentForFullProfileResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LookupResidentForFullProfile.1.rivtabp21/schemas/interactions/LookupResidentForFullProfileInteraction/LookupResidentForFullProfileInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/LookupResidentForFullProfile/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaAktuellaOrdinationerFoddatumResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaAktuellaOrdinationerFoddatum.1.rivtabp21/schemas/interactions/HamtaAktuellaOrdinationerFoddatumInteraction/HamtaAktuellaOrdinationerFoddatumInteraction_1.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaAktuellaOrdinationerFoddatum/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:actoutcome:GetMaternityMedicalHistoryResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.actoutcome.GetMaternityMedicalHistory.3.rivtabp21/schemas/interactions/GetMaternityMedicalHistoryInteraction/GetMaternityMedicalHistoryInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/actoutcome/GetMaternityMedicalHistory/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:directory:organization:GetHealthCareUnitIncludingManagerResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.directory.organization.GetHealthCareUnitIncludingManager.2.rivtabp21/schemas/interactions/GetHealthCareUnitIncludingManagerInteraction/GetHealthCareUnitIncludingManagerInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/directory/organization/GetHealthCareUnitIncludingManager/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:GetBookingDetailsResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetBookingDetails.1.rivtabp21/schemas/interactions/GetBookingDetailsInteraction/GetBookingDetailsInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetBookingDetails/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientconsent:querying:GetConsentsForCareProviderResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/GetConsentsForCareProvider.1.rivtabp21/schemas/interactions/querying/GetConsentsForCareProviderInteraction/GetConsentsForCareProviderInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/GetConsentsForCareProvider/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:accesscontrol:CheckPatientRelationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CheckPatientRelation.1.rivtabp21/schemas/interactions/accesscontrol/CheckPatientRelationInteraction/CheckPatientRelationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CheckPatientRelation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:pris:HamtaHkdbTransaktionerResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/inera.apotekensservice.pris.HamtaHkdbTransaktioner.1.rivtabp20/schemas/interactions/HamtaHkdbTransaktionerInteraction/HamtaHkdbTransaktionerInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/inera/apotekensservice/pris/HamtaHkdbTransaktioner/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:SearchPersonsForProfileUnrestrictedResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.SearchPersonsForProfileUnrestricted.3.rivtabp21/schemas/interactions/SearchPersonsForProfileUnrestrictedInteraction/SearchPersonsForProfileUnrestrictedInteraction_3.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/SearchPersonsForProfileUnrestricted/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:actions:GetActivitiesResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.actions.GetActivities.1.rivtabp21/schemas/interactions/GetActivitiesInteraction/GetActivitiesInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/actions/GetActivities/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:activity:request:ProcessRequestResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.activity.request.ProcessRequest.1.rivtabp21/schemas/interactions/ProcessRequestInteraction/ProcessRequestInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/activity/request/ProcessRequest/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:CreateFormResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.CreateForm.2.rivtabp21/schemas/interactions/CreateFormInteraction/CreateFormInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/CreateForm/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:or:HamtaIckeAktuellaOrdinationerResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaIckeAktuellaOrdinationer.1.rivtabp20/schemas/interactions/HamtaIckeAktuellaOrdinationerInteraction/HamtaIckeAktuellaOrdinationerInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/HamtaIckeAktuellaOrdinationer/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:blocking:GetPatientIdsResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.blocking.GetPatientIds.4.rivtabp21/schemas/interactions/GetPatientIdsInteraction/GetPatientIdsInteraction_4.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/blocking/GetPatientIds/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:crm:scheduling:CancelBookingResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/CancelBooking.1.rivtabp21/schemas/interactions/CancelBookingInteraction/CancelBookingInteraction_1.1_RIVTABP21.wsdl",
+    "wsdlurl": "vp/CancelBooking/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:SearchPersonsForProfileByOrderUnrestrictedResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.SearchPersonsForProfileByOrderUnrestricted.3.rivtabp21/schemas/interactions/SearchPersonsForProfileByOrderUnrestrictedInteraction/SearchPersonsForProfileByOrderUnrestrictedInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/SearchPersonsForProfileByOrderUnrestricted/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:ehr:patientrelationship:administration:RegisterExtendedPatientRelationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/RegisterExtendedPatientRelation.1.rivtabp21/schemas/interactions/administration/RegisterExtendedPatientRelationInteraction/RegisterExtendedPatientRelationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/RegisterExtendedPatientRelation/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:SendCertificateToRecipientResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.SendCertificateToRecipient.1.rivtabp21/schemas/interactions/SendCertificateToRecipientInteraction/SendCertificateToRecipientInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/SendCertificateToRecipient/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:clinicalprocess:healthcond:certificate:ListSickLeavesForCareResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/clinicalprocess.healthcond.certificate.ListSickLeavesForCare.1.rivtabp21/schemas/interactions/ListSickLeavesForCareInteraction/ListSickLeavesForCareInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/clinicalprocess/healthcond/certificate/ListSickLeavesForCare/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:financial:billing:claim:ProcessClaimSpecificationResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/financial.billing.claim.ProcessClaimSpecification.1.rivtabp21/schemas/interactions/ProcessClaimSpecificationInteraction/ProcessClaimSpecificationInteraction_1.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/financial/billing/claim/ProcessClaimSpecification/1/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:axs:HamtaPatientInfoResponder:4",
+    "wsdlfilepath": "/opt/vp/wsdl/HamtaPatientInfo.4.rivtabp21/schemas/interactions/HamtaPatientInfoInteraction/HamtaPatientInfoInteraction_4.0_rivtabp21.wsdl",
+    "wsdlurl": "vp/HamtaPatientInfo/4/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:informationsecurity:authorization:consent:GetConsentsForPatientResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/informationsecurity.authorization.consent.GetConsentsForPatient.2.rivtabp21/schemas/interactions/GetConsentsForPatientInteraction/GetConsentsForPatientInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/informationsecurity/authorization/consent/GetConsentsForPatient/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:processdevelopment:infections:DeletePrescriptionReasonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/DeletePrescriptionReason.1.rivtabp20/schemas/interactions/DeletePrescriptionReasonInteraction/DeletePrescriptionReasonInteraction_1.0_RIVTABP20.wsdl",
+    "wsdlurl": "vp/DeletePrescriptionReason/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:infrastructure:eservicesupply:forminteraction:GetFormResponder:2",
+    "wsdlfilepath": "/opt/vp/wsdl/infrastructure.eservicesupply.forminteraction.GetForm.2.rivtabp21/schemas/interactions/GetFormInteraction/GetFormInteraction_2.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/infrastructure/eservicesupply/forminteraction/GetForm/2/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:SearchPersonsForProfileByOrderResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.SearchPersonsForProfileByOrder.3.rivtabp21/schemas/interactions/SearchPersonsForProfileByOrderInteraction/SearchPersonsForProfileByOrderInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/SearchPersonsForProfileByOrder/3/rivtabp21"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:se.apotekensservice:lf:LasLFPrivatpersonResponder:1",
+    "wsdlfilepath": "/opt/vp/wsdl/LasLFPrivatperson.1.rivtabp20/schemas/interactions/LasLFPrivatpersonInteraction/LasLFPrivatpersonInteraction_1.0_rivtabp20.wsdl",
+    "wsdlurl": "vp/LasLFPrivatperson/1/rivtabp20"
+  },
+  {
+    "tjanstekontrakt": "urn:riv:strategicresourcemanagement:persons:person:GetPersonsForProfileResponder:3",
+    "wsdlfilepath": "/opt/vp/wsdl/strategicresourcemanagement.persons.person.GetPersonsForProfile.3.rivtabp21/schemas/interactions/GetPersonsForProfileInteraction/GetPersonsForProfileInteraction_3.0_RIVTABP21.wsdl",
+    "wsdlurl": "vp/strategicresourcemanagement/persons/person/GetPersonsForProfile/3/rivtabp21"
+  }
+]
