@@ -3,6 +3,8 @@ package probability;
 import static probability.DiceOutcomePossibilitiesInitiator.getAllPossibleOutcomesForNoOfDices;
 
 import java.util.List;
+import java.util.SortedSet;
+import java.util.TreeSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class DiceProbabilityCalc {
@@ -23,8 +25,7 @@ public class DiceProbabilityCalc {
     return 0;
   }
 
-  public double probabilityOfAnyOfFour(
-  ) {
+  public double probabilityOfAnyOfFour() {
     AtomicInteger i= new AtomicInteger();
     possibleOutcomes1.forEach(outcome->{
       if(YatzyCombination.TWOS.isAny(outcome)>0){
@@ -35,6 +36,17 @@ public class DiceProbabilityCalc {
     double totOutcomes = possibleOutcomes1.size();
     return  anys/ totOutcomes;
   }
+  public SortedSet<String> allAcceptableOutcomes(YatzyCombination combo) {
+    AtomicInteger i= new AtomicInteger();
+    SortedSet<String> acceptableStringSet = new TreeSet<>();
+    possibleOutcomes5.forEach(outcome->{
+      if(combo.isAcceptable(outcome)){
+        acceptableStringSet.add( ProbabilityHelper.asSortedString(outcome));
+      }
+    });
+    return acceptableStringSet;
+  }
+
 
 
 }

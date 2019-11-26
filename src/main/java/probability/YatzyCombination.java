@@ -3,33 +3,25 @@ package probability;
 import java.util.List;
 
 public enum YatzyCombination {
-  ONES(new UpperComboCalc(DiceNumber.ONE)),
-  TWOS(new UpperComboCalc(DiceNumber.TWO)),
-  THREES(new UpperComboCalc(DiceNumber.THREE)),
-  FOURS(new UpperComboCalc(DiceNumber.FOUR)),
-  FIVES(new UpperComboCalc(DiceNumber.FIVE)),
-  SIXES(new UpperComboCalc(DiceNumber.SIX));
+  ONES(new UpperComboIsAcceptable(DiceNumber.ONE)),
+  TWOS(new UpperComboIsAcceptable(DiceNumber.TWO)),
+  THREES(new UpperComboIsAcceptable(DiceNumber.THREE)),
+  FOURS(new UpperComboIsAcceptable(DiceNumber.FOUR)),
+  FIVES(new UpperComboIsAcceptable(DiceNumber.FIVE)),
+  SIXES(new UpperComboIsAcceptable(DiceNumber.SIX));
 
-  private CombinationProbabilityCalc calcylator;
+  private IsAcceptAble calcylator;
 
-  YatzyCombination(CombinationProbabilityCalc internalCalc) {
+  YatzyCombination(IsAcceptAble internalCalc) {
     calcylator = internalCalc;
 
-  }
-
-  public double getProbabilityAny(List<DiceNumber> keppers) {
-    return calcylator.getProbabilityAny(keppers);
-  }
-
-  public double getProbabilityAcceptable(List<DiceNumber> keppers) {
-    return calcylator.getProbabilityAcceptable(keppers);
   }
 
   public int isAny(List<DiceNumber> keppers) {
     return calcylator.isAny(keppers);
   }
 
-  public int isAcceptable(List<DiceNumber> keppers) {
+  public boolean isAcceptable(List<DiceNumber> keppers) {
     return calcylator.isAcceptable(keppers);
   }
 }
