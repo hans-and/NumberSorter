@@ -24,4 +24,10 @@ public class DiceProbabilityCalcTest {
     SortedSet<String> set = new DiceProbabilityCalc().allAcceptableOutcomes(YatzyCombination.SIXES);
     System.out.println(set);
   }
+  
+  @Test
+  public void testPrintAllCombos() {
+     YatzyCombination.printSubsets2();
+     //YatzyCombination.printAllSubsets();
+  }
 }
